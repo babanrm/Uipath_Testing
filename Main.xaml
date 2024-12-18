@@ -98,7 +98,7 @@
           <OutArgument x:TypeArguments="x:String">[Input]</OutArgument>
         </Assign.To>
         <Assign.Value>
-          <InArgument x:TypeArguments="x:String">Testing Github 3</InArgument>
+          <InArgument x:TypeArguments="x:String">Testing Github</InArgument>
         </Assign.Value>
       </Assign>
       <If Condition="[string.IsNullOrEmpty(Input) = false]" sap:VirtualizedContainerService.HintSize="450,617.3333333333334" sap2010:WorkflowViewState.IdRef="If_1">
