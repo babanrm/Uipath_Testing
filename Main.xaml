@@ -76,6 +76,7 @@
       <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
       <AssemblyReference>System.Runtime.Serialization.Formatters</AssemblyReference>
       <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
+      <AssemblyReference>GitHub1.Core</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
   <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="629.9999999999999,840" sap2010:WorkflowViewState.IdRef="Sequence_1">
@@ -98,7 +99,7 @@
           <OutArgument x:TypeArguments="x:String">[Input]</OutArgument>
         </Assign.To>
         <Assign.Value>
-          <InArgument x:TypeArguments="x:String">Testing Github</InArgument>
+          <InArgument x:TypeArguments="x:String">Testing Github 2</InArgument>
         </Assign.Value>
       </Assign>
       <If Condition="[string.IsNullOrEmpty(Input) = false]" sap:VirtualizedContainerService.HintSize="450,617.3333333333334" sap2010:WorkflowViewState.IdRef="If_1">

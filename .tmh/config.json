@@ -1,3 +1,9 @@
 {
-  "issueKeyTestcaseValues": {}
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/mayurb_bambal/dev/testmanager_/",
+  "defaultProject": {
+    "id": "18f1ffe0-414e-0000-9784-0b47a62ce271",
+    "name": "Pipeline_Testing",
+    "key": "PIPE"
+  }
 }

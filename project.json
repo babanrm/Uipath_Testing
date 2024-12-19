@@ -43,7 +43,44 @@
     "processOptions": {
       "ignoredFiles": []
     },
-    "fileInfoCollection": [],
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "802e25df-144d-44a7-8f78-8d0d5b7f3e3c",
+        "testCaseType": "TestCase",
+        "fileName": "Verify splitting of a single word string.cs"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "a1806589-897d-4314-ac8e-ff2aa714d407",
+        "testCaseType": "TestCase",
+        "fileName": "Verify splitting of a string with leading and trailing spaces.cs"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "7b90945f-7e3c-422c-bdf3-525347ffd7a6",
+        "testCaseType": "TestCase",
+        "fileName": "Verify splitting of a string with mixed characters.cs"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "27041fb9-7054-46a4-a968-e94d55574fd4",
+        "testCaseType": "TestCase",
+        "fileName": "Verify splitting of a string with multiple spaces.cs"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "089c2405-dd93-4d09-84fb-d19260dd4989",
+        "testCaseType": "TestCase",
+        "fileName": "Verify splitting of a string with special characters.cs"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "0c47811c-62ec-4cb6-9aa5-7d9f2237cb05",
+        "testCaseType": "TestCase",
+        "fileName": "Verify splitting of an empty string.cs"
+      }
+    ],
     "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
